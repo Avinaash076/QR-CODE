@@ -23,6 +23,7 @@ body {
      padding: 16px;
      background: white;
     text-align: center;
+    border-radius: 10px;
 }
 .main-card h1,
 .main-card p {
